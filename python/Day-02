@@ -1,0 +1,14 @@
+# Day 02 – User Input 🧠
+
+Today I learned how to take input from the user and display it using Python.
+
+## What I learned
+- Using the input() function
+- Storing user input in variables
+- Printing dynamic output
+
+## Files in this folder
+- input.py – takes user input and prints a greeting
+
+## Author
+Marko (BCA Student)
